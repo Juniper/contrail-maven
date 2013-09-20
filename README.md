@@ -5,10 +5,10 @@ Maven repository that contains the java library that provides access to the cont
 
     <repository>
       <id>repo</id>
-      <url>https://github.com/Juniper/contrail-maven/raw/master/releases</url>
+      <url>http://juniper.github.io/contrail-maven/releases</url>
     </repository>
 
     <snapshotRepository>
       <id>snapshot-repo</id>
-      <url>https://github.com/Juniper/contrail-maven/raw/master/snapshots</url>
+      <url>http://juniper.github.io/contrail-maven/releases</url>
     </snapshotRepository>
